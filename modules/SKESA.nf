@@ -9,13 +9,13 @@ process SKESA {
 
 
     output:
-    path "${sample_id}.assembly.fasta"
+    path "${sample_id}.assembly.mini.fasta"
 
     script:
     """
     skesa \
       --reads ${clean_read1},${clean_read2} \
-      --contigs_out ${sample_id}.assembly.fasta
+      --contigs_out ${sample_id}.assembly.mini.fasta
     
     """
 }
