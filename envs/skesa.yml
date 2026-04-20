@@ -1,0 +1,23 @@
+name: skesa
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - _openmp_mutex=4.5=20_gnu
+  - boost-cpp=1.71.0=h8e57a91_1
+  - bzip2=1.0.8=hda65f42_9
+  - icu=64.2=he1b5a44_1
+  - libgcc=15.2.0=he0feb66_18
+  - libgcc-ng=15.2.0=h69a702a_18
+  - libgomp=15.2.0=he0feb66_18
+  - liblzma=5.8.3=hb03c661_0
+  - liblzma-devel=5.8.3=hb03c661_0
+  - libstdcxx=15.2.0=h934c35e_18
+  - libstdcxx-ng=15.2.0=hdf11a46_18
+  - libzlib=1.2.13=h4ab18f5_6
+  - skesa=2.5.1=h077b44d_3
+  - xz=5.8.3=ha02ee65_0
+  - xz-gpl-tools=5.8.3=ha02ee65_0
+  - xz-tools=5.8.3=hb03c661_0
+  - zlib=1.2.13=h4ab18f5_6
+prefix: /home/sofia/miniforge3/envs/skesa
