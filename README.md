@@ -12,7 +12,8 @@ This workflow processes paired-end FASTQ sequencing data using a reproducible Ne
 
 The workflow supports sequential and parallel execution.
 
-![Alt text]("C:\Users\16788\Downloads\graphviz.png")
+<img width="316" height="312" alt="graphviz" src="https://github.com/user-attachments/assets/cffdef39-093a-4e16-8b4c-9faed053b655" />
+
 
 ---
 
