@@ -1,7 +1,7 @@
 # BIOL7210 Nextflow Exercise
 
 ## Nextflow Genome Assembly Pipeline 
-##(FASTP → SKESA → SEQKIT)
+FASTP → SKESA → SEQKIT
 
 ## Overview
 
