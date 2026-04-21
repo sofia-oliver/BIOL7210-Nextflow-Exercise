@@ -79,7 +79,10 @@ Ensure your directory structure is as follows:
 ├── README.md
 ├── data
 │   └── mini_fastqs
-├── envs ------> handles other conda environment setup in pipeline
+│       ├── SRR28703325_1.mini.fastq.gz
+│       └── SRR28703325_2.mini.fastq.gz
+│
+├── envs --> handles other conda environment setup in pipeline
 │   ├── fastp.yml
 │   ├── seqkit.yml
 │   └── skesa.yml
