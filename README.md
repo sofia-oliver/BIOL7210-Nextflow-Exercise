@@ -99,10 +99,12 @@ Then, run the pipeline
 nextflow run main.nf --reads data/mini_fastqs/*.fastq.gz 
 ```
 ### Outputs
+```text
 .
 results
 ├── SRR28703325.assembly.mini.fasta --> skesa assembly file (.fna/fasta)
 ├── SRR28703325.seqkit.mini.txt --> seqkit stats (txt file)
 ├── SRR28703325_1.clean.mini.fastq.gz --> fastp outputs (fastq.gz)
-└── SRR28703325_2.clean.mini.fastq.gz 
+└── SRR28703325_2.clean.mini.fastq.gz
+```
 
